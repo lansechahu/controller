@@ -1,6 +1,10 @@
 # controller
 pixi的图片控制器
 
+/*
+ * demo地址: http://www.blueteapot.cn/demo/controller/test.php
+ */
+
 用法：
 var pic=new PIXI.Sprite.fromImage('xxx.jpg'); //创建一个对象
 
