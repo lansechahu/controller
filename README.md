@@ -3,6 +3,8 @@ pixi的图片控制器
 
 /*
  * demo地址: http://www.blueteapot.cn/demo/controller/test.php
+ *
+ *这个是手机版的，整成移动模式看吧，哪天心情好给改成pc版的，说明文件更新好几遍了，总改，今天不想再改了。
  */
 
 用法：
