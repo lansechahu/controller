@@ -48,7 +48,11 @@ Controller.killEvent(eventName);
  */
 
 ctrl.addEvent(ctrl.KILL_ME,killPic);
+
 function killPic(){
+
 	alert('删除了图片');
+	
 	ctrl.killEvent(ctrl.KILL_ME);
+	
 }
